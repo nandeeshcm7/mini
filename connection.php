@@ -1,5 +1,5 @@
 <?php 
-$dbcon = mysqli_connect("localhost","root","","attendance_db");
+$dbcon = mysqli_connect("localhost","attendancedb","nandu!","attendancedb");
 
 // Check connection
 if (mysqli_connect_errno())
