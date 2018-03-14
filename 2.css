@@ -1,0 +1,20 @@
+button{
+	margin:auto;
+	display:block;
+
+}
+	.button {border-radius: 2px;}
+br {
+   display: block;
+   margin: 5px 0;
+   line-height: 0%;
+}
+
+header {
+    background-color: powderblue;
+}
+footer {
+    background-color: powderblack;
+}
+.button1 {border-radius: 2px;}
+.button2 {border-radius: 4px;}
